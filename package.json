@@ -24,12 +24,11 @@
     "url": "https://github.com/jfcastillo/protractor-workshop-2020/issues"
   },
   "homepage": "https://github.com/jfcastillo/protractor-workshop-2020#readme",
-  "dependencies": {
-    "protractor": "^7.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jasminewd2": "^2.0.8",
     "@types/node": "^14.0.25",
+    "protractor": "^7.0.0",
     "typescript": "^3.9.7"
   }
 }
